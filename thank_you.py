@@ -76,6 +76,14 @@ a person and a great leader. Thank you for putting your trust in me.
 And I will keep looking for your guidance in future.
 """,time=TIME_PARA)
 
+tprint(add_magenta("Phani and Rakesh"),time=TIME_PARA*3)
+add_name_line()
+tprint("""I can not be more thankful I am for you both. You helped me in making right 
+decisions during right time of my career. I could not have ever thought about doors of
+possibility with Data Science. You were the pillars of support for me in ACC and were 
+always there for me States as well. I am really thankful for all your kind support and
+learnings.
+""",time=TIME_PARA)
 
 tprint(add_magenta("Nilav aka `Dada`"),time=TIME_PARA*3)
 add_name_line()
@@ -97,8 +105,9 @@ projects and met in person. But rest assured, I still have a pending treat. Woh
 mein dekar rahunga. :)
 """,time=TIME_PARA)
 
-tprint(add_magenta("""Rajat, Gaurav Kandpal, Sourav, Chandan,
-                   Atul, Indranil and Kishore"""),time=TIME_PARA*3)
+tprint(add_magenta("""Rajat, Gaurav Kandpal,
+Sourav, Chandan,
+Atul, Indranil and Kishore"""),time=TIME_PARA*3)
 add_name_line(long=True)
 tprint("""I know we did only had one or two projects to collaborate on, but believe
 me the learning was exponential. You all have such a warm nature and such great
@@ -133,19 +142,11 @@ comfort. Learning about progress discussions and asking right questions from Man
 Making silly jokes with Rohan.
 """,time=TIME_PARA)
 
-tprint(add_magenta("Phani and Rakesh"),time=TIME_PARA*3)
-add_name_line()
-tprint("""I can not be more thankful I am for you both. You helped me in making right 
-decisions during right time of my career. I could not have ever thought about doors of
-possibility with Data Science. You were the pillars of support for me in ACC and were 
-always there for me States as well. I am really thankful for all your kind support and
-learnings.
-""",time=TIME_PARA)
-
 tprint(add_magenta("""My friends, 
 Varun, Rajeev, Malay, Sanjay, 
 Shraddha, Anjali, Chetan, Shubham A,
-Dinesh, Abhijeet, Mohanty
+Dinesh, Abhijeet, Mohanty,
+Rahul Srivastav, Deepak Negi,
 Dhiraj, Mahesh, Satish and Satish"""),time=TIME_PARA*3)
 add_name_line(long=True)
 tprint("""You all made my daily routine easier. I always had a blast around you all.
